@@ -63,7 +63,8 @@
     top: 0;
     background: rgb(168, 17, 131);
     color: #fff;
-    min-width: 200vh;
+    min-width: 100vh;
+    border-radius: 20px;
     height: 200px;
     line-height: 1.5;
     transform: translateY(-200px) !important;
