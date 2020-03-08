@@ -1,0 +1,22 @@
+{
+  "name": "breakout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./build/script.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D4YonSoundcloud/Games.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D4YonSoundcloud/Games/issues"
+  },
+  "homepage": "https://D4YonSoundcloud.github.io/Games",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
